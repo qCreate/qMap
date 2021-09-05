@@ -1,34 +1,18 @@
-## Welcome to qMap
+# Welcome to qMap
 
 qMap is a lightweight and fast map application that you can use to view the world.
 
-### Markdown
+## Features
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Here are some of the great features in qMap!
 
-```markdown
-Syntax highlighted code block
+### Interactive Globe with 3D View
+<img width="1370" alt="Screen Shot 2021-09-05 at 12 30 23 PM" src="https://user-images.githubusercontent.com/90121945/132116452-b56babae-77fe-480c-8be4-2f4fdba27e1f.png">
+qMap now views in a Hybrid Flyover view with a new interactive globe that views the whole earth in a 3D mode.
 
-# Header 1
-## Header 2
-### Header 3
+### User Interest 
+<img width="1370" alt="Screen Shot 2021-09-05 at 1 46 23 PM" src="https://user-images.githubusercontent.com/90121945/132118086-aa9a1c37-078a-4e30-980b-8001b4afa7a6.png">
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/qCreate/qMap/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
