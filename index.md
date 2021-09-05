@@ -2,7 +2,7 @@
 
 qMap is a lightweight and fast map application that you can use to view the world.
 
-## Features
+## Features in Version 1.0
 
 Here are some of the great features in qMap!
 
@@ -11,8 +11,9 @@ Here are some of the great features in qMap!
 qMap now views in a Hybrid Flyover view with a new interactive globe that views the whole earth in a 3D mode.
 
 ### User Interest 
-<img width="1370" alt="Screen Shot 2021-09-05 at 1 46 23 PM" src="https://user-images.githubusercontent.com/90121945/132118086-aa9a1c37-078a-4e30-980b-8001b4afa7a6.png">
+![Uploading Screen Shot 2021-09-05 at 6.34.15 PM.png…]()
 
+Look at places easier by zooming at the location that were pinned for you.
 
 ### Support or Contact
 
