@@ -1,2 +1,5 @@
 # qMap
-qMap is the maps you need to view the world digitally in seconds. This project is based on Apple's MapKit.
+qMap is the goto map application for viewing the world digitally in seconds
+
+## More Info
+Go to https://qcreate.github.io
